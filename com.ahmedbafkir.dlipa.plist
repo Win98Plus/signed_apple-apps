@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>wiki.qaq.Asspp</string>
+                <string>com.ahmedbafkir.dlipa</string>
                 <key>bundle-version</key>
-                <string>4.2.0</string>
+                <string>1.3.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Asspp</string>
+                <string>DLiPA</string>
             </dict>
         </dict>
     </array>
